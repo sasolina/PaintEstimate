@@ -1,10 +1,3 @@
-'''
-name - precious osamuyimen
-ID - 231420
-date - 26th oct 2023
-
-'''
-
 
 #task 1 - this allows the user to quit when they like
 
